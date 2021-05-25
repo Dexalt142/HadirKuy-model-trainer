@@ -1,9 +1,9 @@
-/images
+/images/*
 /node_modules
 /.pnp
 .pnp.js
 
-src/images.js
+src/person.js
 face_model.json
 
 /coverage
